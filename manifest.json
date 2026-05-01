@@ -1,0 +1,23 @@
+{
+  "short_name": "KalaKannada",
+  "name": "Kala Kannada: Language Art",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/png?seed=K&backgroundColor=8B0000&fontFamily=serif&width=192",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/png?seed=K&backgroundColor=8B0000&fontFamily=serif&width=512",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#FFFDF5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#8B0000"
+}
